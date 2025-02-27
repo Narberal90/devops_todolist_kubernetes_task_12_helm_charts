@@ -1,5 +1,7 @@
-mysql:
+common:
   namespace: mysql
+
+mysql:
 
   secrets:
     MYSQL_ROOT_PASSWORD: "1234"
